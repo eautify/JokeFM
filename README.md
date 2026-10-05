@@ -1,6 +1,10 @@
-# JokeFM
+﻿# JokeFM
 
 JokeFM is a browser based comedy radio and joke discovery app powered by [JokeAPI v2](https://v2.jokeapi.dev/jokeapi/). It pairs a queue based player with browser speech synthesis, local favorites, games, and an API playground in a Y2K inspired interface.
+
+## Deployment
+
+JokeFM is deployed on Vercel: [**joke-fm.vercel.app**](https://joke-fm.vercel.app/).
 
 ## Features
 
@@ -42,3 +46,4 @@ Joke content and API metadata are provided by [JokeAPI](https://v2.jokeapi.dev/j
 ## Browser notes
 
 Use a modern browser with `fetch`, `localStorage`, and Web Speech API support for the full experience. Without speech synthesis, joke reading, search, library, games, and API tools continue to work.
+
